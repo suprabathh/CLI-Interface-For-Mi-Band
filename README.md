@@ -2,6 +2,7 @@
 Library to work with Xiaomi Mi Band 3
 
 Library based on Yojesh Ojha's library:-
+
 [Github](https://github.com/yogeshojha/MiBand3)
 
 [Medium Article](https://medium.com/@yogeshojha/i-hacked-xiaomi-miband-3-and-here-is-how-i-did-it-43d68c272391)
